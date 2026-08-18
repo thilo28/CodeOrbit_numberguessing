@@ -1,2 +1,16 @@
 # CodeOrbit_numberguessing
-A number guessing game is a python game where the computer selects a random number,and the player tries to guess it using "too high" or "too low " hints 
+Number Guessing Game
+A simple Python Number Guessing Game where the computer generates a random number and the player tries to guess it.
+Features
+Random number generation
+High/Low hints
+Counts the number of attempts
+Simple and beginner-friendly Python project
+Technologies Used
+Python
+Random module
+How to Play
+Run the program.
+Enter your guess.
+Follow the Too High or Too Low hints.
+Keep guessing until you find the correct number.
